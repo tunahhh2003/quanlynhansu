@@ -1,0 +1,3 @@
+- Tại file QLNS-SQL chạy trong SQL server 
+- Liên kết data source trong visual studio
+- Tại mỗi form trong visual có đường liên kết riêng, thay đổi đường dẫn bằng đường dẫn hiển thị trong file app.config tại solution.
